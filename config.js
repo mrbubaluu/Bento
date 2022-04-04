@@ -116,15 +116,15 @@ const CONFIG = {
 		},
 		{
 			id: '5',
-			name: 'Hashnode',
-			icon: 'pen-tool',
-			link: 'https://hashnode.com/',
+			name: 'Stack Overflow',
+			icon: 'align-vertical-justify-end',
+			link: 'https://stackoverflow.com/',
 		},
 		{
 			id: '6',
-			name: 'Figma',
-			icon: 'figma',
-			link: 'https://figma.com/',
+			name: 'Arch Wiki',
+			icon: 'navigation-2',
+			link: 'https://wiki.archlinux.org/',
 		},
 	],
 
