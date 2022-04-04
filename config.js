@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: 'De vuelta en la Nochesfera!',
 
 	// Layout
-	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: '9cddfb34b24067566ccdfd9a59d01d2f', // Write here your API Key
