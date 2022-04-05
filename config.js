@@ -12,7 +12,7 @@ const CONFIG = {
 
 	// General
 	name: 'Yago',
-	imageBackground: false,
+	imageBackground: true,
 	openInNewTab: false,
 	twelveHourFormat: false,
 
